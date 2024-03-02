@@ -11,19 +11,33 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_google_places_sdk_platform_interface:
-    path: ../flutter_google_places_sdk_platform_interface
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_platform_interface
   flutter_google_places_sdk_ios:
-    path: ../flutter_google_places_sdk_ios
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_ios
   flutter_google_places_sdk_web:
-    path: ../flutter_google_places_sdk_web
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_web
   flutter_google_places_sdk_android:
-    path: ../flutter_google_places_sdk_android
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_android
   flutter_google_places_sdk_windows:
-    path: ../flutter_google_places_sdk_windows
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_windows
   flutter_google_places_sdk_linux:
-    path: ../flutter_google_places_sdk_linux
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_linux
   flutter_google_places_sdk_macos:
-    path: ../flutter_google_places_sdk_macos
+    git:
+      url: https://github.com/nhatphat/flutter_google_places_sdk.git
+      path: flutter_google_places_sdk_macos
 
 dev_dependencies:
   flutter_test:
