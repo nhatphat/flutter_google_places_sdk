@@ -2,6 +2,7 @@ name: flutter_google_places_sdk_http
 description: An http implementation of Flutter plugin to be used by other platform implementation
 version: 0.1.4
 homepage: https://github.com/matanshukry/flutter_google_places_sdk/tree/master/flutter_google_places_sdk_http
+publish_to: none
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
